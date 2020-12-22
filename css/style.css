@@ -1,0 +1,5 @@
+:root {
+	--main-color: #EC4C4B;
+	--gradient: linear-gradient(90deg, rgba(222,63,110,1) 0%, rgba(239,81,64,1) 100%);
+	--main-background: rgb(222,63,110);
+}
