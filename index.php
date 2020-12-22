@@ -50,7 +50,7 @@
 		<div class="container">
 			<nav class="navbar navbar-expand-sm flex-column flex-sm-row navbar-dark">
 				<!-- Brand/Logo -->
-  				<a class="navbar-brand" href="#"><img src="logo-ghack.png" width="50px" height="50px" alt=""></a>
+  				<a class="navbar-brand" href="#"><img src="assets/logo/logo-ghack.png" width="50px" height="50px" alt=""></a>
 
   				<!-- Menu -->
   				<ul class="nav navbar-nav ml-auto">
